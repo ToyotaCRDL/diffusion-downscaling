@@ -99,6 +99,21 @@ worker count, epoch count, and checkpoint interval.
 See [`inference_from_checkpoint.ipynb`](inference_from_checkpoint.ipynb) for
 the full checkpoint loading and one-sample generation procedure.
 
+## Citation
+
+If you use this repository, please cite the following paper:
+
+```bibtex
+@misc{kutsuna2026generative,
+  title={Generative climate downscaling enables high-resolution compound risk assessment by preserving multivariate dependencies},
+  author={Kutsuna, Takuro and Ishizaki, Noriko N. and Oyama, Norihiro and Yoshida, Hiroaki},
+  year={2026},
+  eprint={2605.11531},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2605.11531}
+}
+```
+
 ## Acknowledgements
 
 This codebase is built on top of
